@@ -1,0 +1,375 @@
+.font-container{
+  display: inline-flex;
+}
+
+.fontbg{
+  background-image: url("./fontbg.jpg");
+  background-repeat: repeat;
+}
+
+.font{
+  width: 42px;
+  height: 75px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.bonefont{
+  background-image: url("./bonefont.jpg");
+  height: 69px;
+  width: 61px;
+  margin-top: -10px;
+}
+
+.plpbracket{
+  background-image: url("./plpbracket.jpg");
+  height: 69px;
+  width: 61px;
+  margin-top: -10px;
+}
+.prpbracket{
+  background-image: url("./prpbracket.jpg");
+  height: 69px;
+  width: 61px;
+  margin-top: -10px;
+}
+.pcom{
+  background-image: url("./pcom.jpg");
+  height: 38px;
+  margin-top: 30px;
+}
+.pdot{
+  background-image: url("./pdot.jpg");
+  height: 31px;
+  width: 12px;
+  margin-top: 20px;
+}
+.pexcl{
+  background-image: url("./pexcl.jpg");
+  margin-top: -20px;
+}
+.pspac{
+  margin-top: -20px;
+}
+.plquo{
+  background-image: url("./plquo.jpg");
+  margin-top: -20px;
+}
+.pquest{
+  background-image: url("./pquest.jpg");
+  margin-top: -20px;
+}
+.prquo{
+  background-image: url("./prquo.jpg");
+  margin-top: -20px;
+}
+.psquo{
+  background-image: url("./psquo.jpg");
+  margin-top: -20px;
+  width: 20px;
+}
+
+.n1{
+  background-image: url("./n1.jpg");
+  width: 22px;
+  margin-top: -20px;
+}
+.n2{
+  background-image: url("./n2.jpg");
+  width: 57px;
+  margin-top: -10px;
+}
+.n3{
+  background-image: url("./n3.jpg");
+  width: 53px;
+  margin-top: -20px;
+}
+.n4{
+  background-image: url("./n4.jpg");
+  width: 42px;
+  margin-top: -26px;
+}
+.n5{
+  background-image: url("./n5.jpg");
+  width: 58px;
+  margin-top: -20px;
+}
+.n6{
+  background-image: url("./n6.jpg");
+  width: 46px;
+  margin-top: -20px;
+}
+.n7{
+  background-image: url("./n7.jpg");
+  width: 53px;
+  margin-top: -20px;
+}
+.n8{
+  background-image: url("./n8.jpg");
+  width: 55px;
+  height: 83px;
+  margin-top: -24px;
+}
+.n9{
+  background-image: url("./n9.jpg");
+  width: 44px;
+  margin-top: -25px;
+}
+.n0{
+  background-image: url("./n0.jpg");
+  width: 38px;
+  margin-top: -5px;
+}
+
+.A{
+  background-image: url("./ca.jpg");
+  margin-top: -20px;
+}
+.B{
+  background-image: url("./cb.jpg");
+  margin-top: -22px;
+}
+.C{
+  background-image: url("./cc.jpg");
+  margin-top: -15px;
+}
+.D{
+  background-image: url("./cd.jpg");
+  margin-top: -15px;
+}
+.E{
+  background-image: url("./ce.jpg");
+  margin-top: -20px;
+  width: 60px;
+  height: 65px;
+}
+.F{
+  background-image: url("./cf.jpg");
+  width: 40px;
+  margin-top: -15px;
+}
+.G{
+  background-image: url("./cg.jpg");
+  width: 54px;
+  margin-top: -20px;
+}
+.H{
+  background-image: url("./ch.jpg");
+  margin-top: -20px;
+}
+.I{
+  background-image: url("./ci.jpg");
+  width: 34px;
+  margin-top: -20px;
+}
+.J{
+  background-image: url("./cj.jpg");
+  margin-top: -18px;
+  width: 60px;
+  height: 66px;
+}
+.K{
+  background-image: url("./ck.jpg");
+  margin-top: -15px;
+}
+.L{
+  background-image: url("./cl.jpg");
+  margin-top: -15px;
+}
+.M{
+  background-image: url("./cm.jpg");
+  width: 58px;
+  margin-top: -10px;
+}
+.N{
+  background-image: url("./cn.jpg");
+  width: 50px;
+  margin-top: -15px;
+}
+.O{
+  background-image: url("./co.jpg");
+  width: 50px;
+  margin-top: -10px;
+}
+.P{
+  background-image: url("./cp.jpg");
+  margin-top: -20px;
+}
+.Q{
+  background-image: url("./cq.jpg");
+  width: 46px;
+  margin-top: -20px;
+}
+.R{
+  background-image: url("./cr.jpg");
+  width: 48px;
+  margin-top: -20px;
+}
+.S{
+  background-image: url("./cs.jpg");
+  width: 54px;
+  margin-top: -20px;
+}
+.T{
+  background-image: url("./ct.jpg");
+  width: 48px;
+  margin-top: -20px;
+}
+.U{
+  background-image: url("./cu.jpg");
+  width: 46px;
+  margin-top: -20px;
+}
+.V{
+  background-image: url("./cv.jpg");
+  width: 50px;
+  margin-top: -8px;
+}
+.W{
+  background-image: url("./cw.jpg");
+  width: 60px;
+  margin-top: -20px;
+}
+.X{
+  background-image: url("./cx.jpg");
+  width: 46px;
+  margin-top: -20px;
+}
+.Y{
+  background-image: url("./cy.jpg");
+  width: 46px;
+  margin-top: -20px;
+}
+.Z{
+  background-image: url("./cz.jpg");
+  width: 64px;
+  margin-top: -20px;
+}
+
+
+.a{
+  background-image: url("./la.jpg");
+  width: 43px;
+  height: 45px;
+}
+.b{
+  background-image: url("./lb.jpg");
+  margin-top: -20px;
+}
+.c{
+  background-image: url("./lc.jpg");
+  margin-top: 5px;
+  height: 45px;
+}
+.d{
+  background-image: url("./ld.jpg");
+  margin-top: -5px;
+}
+.e{
+  background-image: url("./le.jpg");
+  height: 45px;
+}
+.f{
+  background-image: url("./lf.jpg");
+  margin-top: -20px;
+}
+.g{
+  background-image: url("./lg.jpg");
+  height: 50px;
+  margin-top: 10px;
+}
+.h{
+  background-image: url("./lh.jpg");
+  width: 45px;
+  margin-top: -10px;
+}
+.i{
+  background-image: url("./li.jpg");
+  width: 17px;
+  margin-top: -20px;
+}
+.j{
+  background-image: url("./lj.jpg");
+  height: 90px;
+  width: 40px;
+  margin-top: -20px;
+}
+.k{
+  background-image: url("./lk.jpg");
+  width: 33px;
+  margin-top: -10px;
+}
+.l{
+  background-image: url("./ll.jpg");
+  width: 22px;
+  margin-top: -10px;
+}
+.m{
+  background-image: url("./lm.jpg");
+  width: 67px;
+  height: 38px;
+  margin-top: 10px;
+}
+.n{
+  background-image: url("./ln.jpg");
+  width: 48px;
+  margin-top: 10px;
+}
+.o{
+  background-image: url("./lo.jpg");
+  width: 36px;
+  height: 44px;
+  margin-top: 10px;
+}
+.p{
+  background-image: url("./lp.jpg");
+  width: 36px;
+  margin-top: 10px;
+}
+.q{
+  background-image: url("./lq.jpg");
+  width: 40px;
+  margin-top: 10px;
+}
+.r{
+  background-image: url("./lr.jpg");
+  margin-top: 5px;
+}
+.s{
+  background-image: url("./ls.jpg");
+  width: 48px;
+  margin-top: -5px;
+}
+.t{
+  background-image: url("./lt.jpg");
+  width: 38px;
+  height: 61px;
+  margin-top: -10px;
+}
+.u{
+  background-image: url("./lu.jpg");
+  margin-top: 10px;
+}
+.v{
+  background-image: url("./lv.jpg");
+  width: 48px;
+  margin-top: 5px;
+}
+.w{
+  background-image: url("./lw.jpg");
+  width: 55px;
+  margin-top: 0px;
+}
+.x{
+  background-image: url("./lx.jpg");
+  width: 48px;
+  margin-top: 5px;
+}
+.y{
+  background-image: url("./ly.jpg");
+  margin-top: 5px;
+}
+.z{
+  background-image: url("./lz.jpg");
+  margin-top: 5px;
+}
