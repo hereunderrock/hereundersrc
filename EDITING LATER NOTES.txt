@@ -1,0 +1,11 @@
+all pages have an initial cartoon str/.loc e.g. "?c=<some cartoon _id>", and this single initial list is populated by
+NavPage.js
+
+
+all pages themselves then define how to list the list under the cartoon "buildList"
+
+
+App.js has all of the page routing, NavPage only does navigation output
+
+
+any title, location, footnote, hourglass, likes, or mormon edits should be done with mongodb, login w/ what is is my keepass(under web servers)

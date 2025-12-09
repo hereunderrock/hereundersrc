@@ -1,0 +1,12 @@
+!
+dad had me temp delete most recent page (from navPage) so it isn't displayed right now
+
+
+rendercartoon:
+-prev-next buttons both fullscreen and regular
+
+
+waiting dad:
+favicon
+to tell me which titles to replace with faves, fave order
+

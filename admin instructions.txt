@@ -1,0 +1,27 @@
+1.
+go to
+https://github.com/hereunderrock/img
+
+sign in with
+username:
+XMRRequest@protonmail.com
+
+password:
+lanceStargate23!
+
+----------------------------------------------
+
+2.
+make sure url still says
+https://github.com/hereunderrock/img
+
+drag new cartoons from your PC to this site(the site should say: "Drop to upload your files")
+
+----------------------------------------------
+
+3.
+click the green button that says Commit changes
+
+
+http://localhost:3000/#/34e54febTe13T34709t0hDt54sJLsl134?a=sf53541fa5fj468k4687k786d5f4hd58d351
+http://hereundermyrock.com/#/34e54febTe13T34709t0hDt54sJLsl134?a=sf53541fa5fj468k4687k786d5f4hd58d351

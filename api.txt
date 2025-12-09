@@ -1,0 +1,61 @@
+try github api, repository contents first
+
+need to grab list of all(if not, use separate repo to update that list)
+
+and be able to read and write singular strings or images
+
+
+get list
+GET
+api.github.com/repos/hereunderrock/img/contents
+this works w/o auth
+returns array of all files
+use .path to get "c1.jpg", or "c 4.jpg"
+1.4kB + .1kB per image in size
+
+
+get one specific
+GET
+api.github.com/repos/hereunderrock/img/contents/c1.jpg
+this works
+returns obj
+.content is base64 image
+
+
+
+to upload:
+scan cartoon, make sure file size is under 5MB
+login to github.com
+go to: https://github.com/hereunderrock/img
+drag cartoon into page
+wait for loading bar to finish
+click green "Commit changes" button
+confirm cartoon is on list
+
+to delete:
+go to: https://github.com/hereunderrock/img
+find image by name
+
+
+
+
+-----------------------------------------------------------
+
+
+----
+what are the api limits? are they per client, or per IP address?
+
+heres what im thinking:
+repo /img/ contains everything.
+mostly imgs base64
+file index.json contains the index table for all the images, 
+{
+  [
+	path: "c" + <img id> + ".jpg",
+	likes: int,
+	note: "",
+	hourglass: bool
+  ],...
+}
+
+admin upload on upload will auth token, 

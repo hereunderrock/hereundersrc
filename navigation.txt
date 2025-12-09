@@ -1,0 +1,32 @@
+routes:
+
+admin upload	/7fd56e484ba15dc846e8e, also use hash salt pass
+convert uploaded file to base64, send to data table and update index table
+
+root		/
+cave pic maybe /cave
+display 1 random
+about section(maybe separate)
+
+family faves
+
+most funnyboned
+desc order
+
+participation award	/gallery
+
+ask your mormon friend
+'ask for context'
+
+most recent
+
+
+titlebar,
+links left, cave pic
+home about
+
+
+bone for funny bones(upvotes)
+footmark, author notes
+hourglass icon, 'might take a while to get it'
+
