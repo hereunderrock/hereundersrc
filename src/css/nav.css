@@ -1,0 +1,55 @@
+nav{
+  padding: 0px !important;
+}
+
+#title-banner{
+  position: relative;
+  background-image: url("../img/title4.jpg");
+  background-repeat: no-repeat;
+  height: 308px;
+  max-width: 30vw;
+  top:-10px;
+  left: 0px;
+}
+
+#navpage-container{
+  padding-left: 0px;
+}
+
+#banner-pos{
+  position: relative;
+  margin-top:0px;
+  max-width: 60vw;
+}
+
+#img-offset{
+  margin-left: -20px;
+}
+
+.nav-img{
+  max-height: 441px;
+  max-width: 20vw;
+}
+
+.button-container{
+  max-width: 700px;
+}
+
+.nav-arrow-container{
+  height: 137px;
+  width: 86px;
+}
+
+@media screen and (max-width: 1800px) and (min-width: 601px){
+  .nav-arrow-container{
+    height: 60px;
+    width: 44px;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .nav-arrow-container{
+    height: 30px;
+    width: 22px;
+  }
+}

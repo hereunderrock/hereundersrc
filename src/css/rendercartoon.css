@@ -1,0 +1,76 @@
+.handwrite{
+  font-family: "Kalam";
+  font-weight: 400;
+  font-style: normal;
+  color: #71726e;
+  text-shadow: 1px 1px #53544e;
+}
+p.handwrite{
+  font-size: 25px;
+}
+
+
+#img-container{
+  margin-top: -5px;
+}
+
+#likes-offset{
+  margin-top: -15px;
+}
+
+#modal-render-frame{
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+  max-height: 100vh;
+  max-width: 100vw;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+#render-frame{
+  width: auto;
+  max-height: 100vh;
+  cursor: pointer;
+  padding: 0px;
+}
+
+.modal-dialog{
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+.modal-content{
+  background-image: url("../img/bg2.jpg");
+  background-repeat: repeat;
+  width: 100vw;
+}
+
+.note-img{
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.red-text{
+  color: #b41d1a;
+  font-size: 23px;
+}
+
+@media screen and (max-width: 1200px) and (min-width: 601px){
+  .note-img{
+    max-width: 75px;
+  }
+}
+
+@media screen and (max-width: 600px) and (min-width: 401px){
+  .note-img{
+    max-width: 50px;
+  }
+}
+
+@media screen and (max-width: 400px){
+  .note-img{
+    max-width: 35px;
+  }
+}

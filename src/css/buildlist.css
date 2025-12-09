@@ -1,0 +1,29 @@
+.build-main-container{
+  width: 100%;
+  max-width: 100%;
+}
+
+.buildlist-container{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.buildlist-top{
+  background-image: url("../img/boxtop.jpg");
+  background-repeat: no-repeat;
+  height: 31px;
+  background-size: 100% 100%;
+}
+
+.buildlist-mid{
+  background-image: url("../img/boxmid.jpg");
+  background-repeat: repeat;
+  background-size: 100% 100%;
+}
+
+.buildlist-bottom{
+  background-image: url("../img/boxbottom.jpg");
+  background-repeat: no-repeat;
+  height: 26px;
+  background-size: 100% 100%;
+}
